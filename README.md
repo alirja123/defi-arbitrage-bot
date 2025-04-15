@@ -11,7 +11,7 @@ This repository contains a modular DeFi arbitrage bot built using Node.js, desig
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/defi-arbitrage-bot.git
+   git clone https://github.com/alirja123/defi-arbitrage-bot.git
    ```
 2. Install dependencies:
    ```bash
